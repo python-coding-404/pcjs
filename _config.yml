@@ -12,6 +12,7 @@ data_dir: machines
 left_brace: "{"
 right_brace: "}"
 encoding: UTF-8
+baseurl: "/pcjs/"
 
 exclude:
   - vendor/
