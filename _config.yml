@@ -14,6 +14,7 @@ right_brace: "}"
 encoding: UTF-8
 
 exclude:
+  - vendor/
   - Dockerfile
   - docker-compose.yml
   - docker-init.sh
